@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+form{
+    text-align: center;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 1rem;
+    box-shadow: 0 5px 10pc -5px rgb(0 0 0);
+
+
+}
+.input_form{
+    width: 100%;
+    color:#706c6c ;
+    font-size: 1rem;
+    padding: .6em .3em;
+    border: none;
+    outline: none;
+    text-align: center;
+    border-bottom: 1px solid var(--color);
+}
+
+.boton_ejercicio2{
+  background-color: #3866f2;
+  color: white;
+  border: none;
+  border-radius: .5em;
+  padding: 30px  ;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+a{
+    border: none;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: .5em;
+    box-shadow: 0 5px 10pc -5px rgb(0 0 0);
+    text-align: center;
+}
+
+.boton_ejercicio1{
+    background-color: #3866f2;
+    color: white;
+    border: none;
+    border-radius: .5em;
+    padding: 30px  ;
+    font-weight: 300;
+    cursor: pointer;
+  }
+
+  h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+  }
